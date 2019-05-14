@@ -26,7 +26,7 @@ def work():
     # AllPaper = int(AllPaper)
     # print(AllPaper)
 
-    # 4645 是论文页数
+    # 4645 是论文数量
     try:
         for i in range(0,math.ceil(4645/25)):
         # for i in range(0,2):
